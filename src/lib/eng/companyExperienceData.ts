@@ -27,7 +27,7 @@ export const companyExperienceData: CompanyExperienceDataType = [
   {
     id: 4,
     initialValue: 0,
-    totalCount: 15,
+    totalCount: 1,
     label: "Total Years of Experience",
   },
 ]
